@@ -221,9 +221,9 @@ Overall, the model provides strong evidence that Radio advertising and sustained
 Multiple-Linear-Regression-Marketing-Analysis/
 │
 ├── README.md
-├── requirements.txt
 ├── marketing_sales_data.csv
 ├── multiple_regression_analysis.ipynb
+├── requirements.txt
 │
 └── images/
     ├── correlation_matrix.png
